@@ -1,0 +1,13 @@
+{
+  "name": "unconventional-commits",
+  "version": "0.0.0",
+  "repository": "git@github.com:pedrobslisboa/unconventional-commits.git",
+  "author": "Pedro Lisboa <pedrobslisboa@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "format": "prettier --write '**/*.{md}'"
+  },
+  "devDependencies": {
+    "prettier": "^2.4.0"
+  }
+}
