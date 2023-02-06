@@ -34,9 +34,9 @@ Here are some tips to let your mind fly:
 ### Types
 
 - `feat?` Does this commit add a new feature? You will never know. It could fix a bug.
-- `unfix` Commits which provide a bug to the code. So you can fix it later. We add bugs constantly, so why not be precise when adding them?
+- `unfix` Commit that provides a bug to the code, then you can fix it later. We add bugs constantly, so why not be precise when adding them?
   It would be best if you keep your job, and the best way is always to have something to fix.
-- `refactor!` Commits that rewrite/restructure your code, and it doesn't change any behavior; however, it does a breaking change on the versioning.
+- `refactor!` Commit that rewrites/restructures your code, and it doesn't change any behavior; however, it does a breaking change on the versioning.
 - `wip` Let's turn this common commit into our rules, and why not have it on a changelog too? Can you imagine? We are in the future, baby.
   Ex:
 
@@ -113,7 +113,7 @@ See [Unconventional Commits](https://unconventionalcommits.org) for commit guide
 
 ### Is it a feature?
 
-- I DON'T WANT TO LOSE IT ([1234567](https://github.com/your-workspace/your-library/compare/@your-workspace/your-library/commit/2915810e57bb222bad8e24d1fa9daf1554e15ac0))
+- SAVING FOR LATER ([1234567](https://github.com/your-workspace/your-library/compare/@your-workspace/your-library/commit/2915810e57bb222bad8e24d1fa9daf1554e15ac0))
 ```
 
 ### Examples
