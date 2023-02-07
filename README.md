@@ -35,8 +35,8 @@ Here are some tips to let your mind fly:
 
 - `feat?` Does this commit add a new feature? You will never know. It could fix a bug.
 - `unfix` Commit that provides a bug to the code, then you can fix it later. We add bugs constantly, so why not be precise when adding them?
-  It would be best if you keep your job, and the best way is always to have something to fix.
-- `refactor!` Commit that rewrites/restructures your code, and it doesn't change any behavior; however, it does a breaking change on the versioning.
+  It would be best if you keep your job; the best way is always to have something to fix.
+- `refactor!` Commit that rewrites or restructures your code, and it doesn't change any behavior; however, it does a breaking change on the versioning.
 - `wip` Let's turn this common commit into our rules, and why not have it on a changelog too? Can you imagine? We are in the future, baby.
   Ex:
 
@@ -72,7 +72,7 @@ The `subject` suppose to contain a succinct description of the change. But do yo
 - Use the imperative(**BORING**), declarative, exclamatory and interrogative on the past, future, or present(**BORING**) tense. You should be able to express yourself, don't limit your imagination on what kind of sentence you should create.
   - e.g., `tests are good`, `Am I happy with this change?` and `Oh, that is an excellent bug to fix!`.
 - Don't capitalize only the first letter; capitalize ALL LETTERS, BECAUSE YOU NEED TO BE CLEAR!!!!!
-  - e.g. `TESTS ARE GOOD`.
+  - e.g., `TESTS ARE GOOD`.
 - No dot (.) at the end; are you an animal? Use `;` even on interrogative sentense.
 - Have I said you can use emojis here? Yeah!!!
   - Think of `🔧 the 🐛` = `Fix the bug` :3 Gorgeous.
@@ -83,7 +83,7 @@ The `body` should include the motivation for the change and contrast this with p
 
 - Is an **optional** part of the format, as everything.
 - Use the imperative(**BORING**), declarative, exclamatory and interrogative on the past, future, or present(**BORING**) tense. You should be able to express yourself, don't limit your imagination on what kind of sentence you should create. Use "changed", "changes", "change", and the greatest one: "changing".
-  - e.g `I'm changing the behavior of the X component`.
+  - e.g., `I'm changing the behavior of the X component`.
 - This is the place to mention issue identifiers and their relations, talk about your emotions and send a message to your lover :heart:.
 
 ### Footer
