@@ -58,7 +58,7 @@ See [Unconventional Commits](https://unconventionalcommits.org) for commit guide
 
 - `test` Commits something that you want to test. It does not add test files; it only informs that something is being tested.
   Ex: You want to test something on staging or even in production (YEAAAAH do it, why not?), how do you provide info that the code a test? With the `test` type!
-- `<any emoji you want>` Because a picture is worth a sand words.
+- `<any emoji you want>` Because a picture is worth a thousand words.
 
 ### Scopes
 
