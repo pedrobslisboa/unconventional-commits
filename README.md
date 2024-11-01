@@ -20,7 +20,7 @@ Everything is optional, YEY!!!! So then you can do whatever you want without bar
 
 ### Intro
 
-Cause every good writer writes a nice intro.
+Because every good writer writes a nice intro.
 You can start with the most common way: once upon a time.
 
 Here are some tips to let your mind fly:
@@ -66,7 +66,7 @@ Nobody cares, NEXT!
 
 ### Subject
 
-The `subject` suppose to contain a succinct description of the change. But do you really care about it? We are suggesting a better way to deal with it.
+The `subject` is supposed to contain a succinct description of the change. But do you really care about it? We are suggesting a better way to deal with it.
 
 - Is **optional** part of the format, as everything.
 - Use the imperative(**BORING**), declarative, exclamatory and interrogative on the past, future, or present(**BORING**) tense. You should be able to express yourself, don't limit your imagination on what kind of sentence you should create.
@@ -82,7 +82,7 @@ The `subject` suppose to contain a succinct description of the change. But do yo
 The `body` should include the motivation for the change and contrast this with previous behavior. Should, not **must**... should!
 
 - Is an **optional** part of the format, as everything.
-- Use the imperative(**BORING**), declarative, exclamatory and interrogative on the past, future, or present(**BORING**) tense. You should be able to express yourself, don't limit your imagination on what kind of sentence you should create. Use "changed", "changes", "change", and the greatest one: "changing".
+- Use the imperative(**BORING**), declarative, exclamatory, and interrogative on the past, future, or present(**BORING**) tense. You should be able to express yourself, don't limit your imagination on what kind of sentence you should create. Use "changed", "changes", "change", and the greatest one: "changing".
   - e.g., `I'm changing the behavior of the X component`.
 - This is the place to mention issue identifiers and their relations, talk about your emotions and send a message to your lover :heart:.
 
@@ -101,7 +101,7 @@ wip: SAVING FOR LATER;
 FEAT?: is it a feature or a WIP? .-.
 ```
 
-To output is going to be:
+The output is going to be:
 
 ```
 # Change Log
